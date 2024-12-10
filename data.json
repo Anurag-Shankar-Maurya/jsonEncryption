@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Alice",
+    "roll_number": 1,
+    "marks": {
+      "math": 85,
+      "science": 92
+    },
+    "grade": "A"
+  },
+  {
+    "name": "Bob",
+    "roll_number": 2,
+    "marks": {
+      "math": 75,
+      "science": 88
+    },
+    "grade": "B"
+  },
+  {
+    "name": "Charlie",
+    "roll_number": 3,
+    "marks": {
+      "math": 90,
+      "science": 95
+    },
+    "grade": "A+"
+  },
+  {
+    "name": "David",
+    "roll_number": 4,
+    "marks": {
+      "math": 65,
+      "science": 72
+    },
+    "grade": "C"
+  },
+  {
+    "name": "Emily",
+    "roll_number": 5,
+    "marks": {
+      "math": 82,
+      "science": 89
+    },
+    "grade": "B+"
+  }
+]
